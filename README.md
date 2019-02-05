@@ -1,2 +1,2 @@
 # Projects
-Projects Dome with Machine learning algorithms.
+Projects Done with Machine learning algorithms.
